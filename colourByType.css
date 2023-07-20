@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.type .bug{
+    background-color:#A7B723;
+}
+
+.type.Dark{
+background-color:#75574C;
+}
+
+.type.Dragon{
+    background-color:#7037FF
+}
+
+.type.Electric{
+    background-color: #F9CF30;
+}
+
+.type.Fairy{
+    background-color: #E69EAC;
+}
+
+.type.Fighting{
+    background-color: #C12239;
+}
+.type.Fire{
+    background-color: #F57D31;
+}
+.type.Flying{
+    background-color: #A891EC;
+}
+.type.Ghost{
+    background-color: #70559B;
+}
+.type.Normal{
+    background-color: #AAA67F;
+}
+.type.Grass{
+    background-color: #74CB48;
+}
+.type.Ground{
+    background-color: #DEC16B;
+}
+.type.Ice{
+    background-color: #9AD6DF;
+}
+.type.Poison{
+    background-color: #A43E9E;
+}
+.type.Psychic{
+    background-color: #FB5584;
+}
+.type.Rock{
+    background-color: #B69E31;
+}
+.type.Steel{
+    background-color: #B7B9D0;
+}
+
+.type.Water{
+    background-color: #6493EB;
+}
